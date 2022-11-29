@@ -2,6 +2,11 @@ Next.js API Routes | Build A GraphQL Server Using Next.js API Routes
 
 ref: [https://morioh.com/p/2bfedec3d2bc](https://morioh.com/p/2bfedec3d2bc)
 
+![https://github.com/ilmsg/vigilant-waddle/blob/main/images/2022-11-30_053459.png?raw=true](https://github.com/ilmsg/vigilant-waddle/blob/main/images/2022-11-30_053459.png?raw=true)
+
+![https://github.com/ilmsg/vigilant-waddle/blob/main/images/2022-11-30_053512.png?raw=true](https://github.com/ilmsg/vigilant-waddle/blob/main/images/2022-11-30_053512.png?raw=true)
+
+---
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
